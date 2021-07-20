@@ -1,17 +1,9 @@
-title: Loader
+title: Mullet Mafia Tech
 show_downloads: false
 theme: jekyll-theme-minimal
 description: >
   Mullet Mafia tech blog centered around Roblox development.
   <hr/>
-  <a href="start.html">Getting Started</a><br/>
-  <a href="reference.html">Reference</a><br/>
-  <div class="nav">
-  <a href="loader.html">Loader</a><br/>
-  <a href="datasync.html">DataSync</a><br/>
-  <a href="interface.html">Interface</a><br/>
-  <a href="manager.html">Manager</a><br/>
-  <a href="network.html">Network</a><br/>
-  <a href="roblox.html">Roblox</a><br/>
+  <a href="productspec.html">Product Design Spec</a><br/>
   </div>
   <br/><hr/>
